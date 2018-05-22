@@ -25,6 +25,12 @@ function makeInt(n){
 }
 
 function preserveDecimal(n) {
+<<<<<<< HEAD
   return parseFloat(n)
+=======
+  
+    parseFloat(n)
+    return n
+>>>>>>> 66f19d5522c6406c99827b6ae1c96b664e8524ff
 
 }
